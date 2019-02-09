@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  text-align: center;
+  }
+
+h1 {
+  display: inline-block;
+  font-family:'Poppins', sans-serif;
+  color: black;
+}
+
+p {
+  display: inline-block;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: black;
+
+}
+
+   .top-container {
+    background-image: url("/Users/CarolynWilliams/Desktop/Web Development/Huddle Test/images/bg-hero-desktop.svg");
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 300px;
+    color: blue
+  }
+
+  .logo {
+  position: absolute;
+  left: 100px;
+  top: 50px;
+}
+
+.float-area {
+  text-align: left;
+
+}
+
+.mockups {
+  width: 50%;
+  float: right;
+  margin-left: 30px;
+
+}
